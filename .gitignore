@@ -1,0 +1,6 @@
+.env
+credential.json
+token.json
+node_modules
+group.csv
+config.ts
